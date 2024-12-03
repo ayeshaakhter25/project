@@ -1,0 +1,4 @@
+S002|Umer|5th|BSCS
+S003|aroob|4th|bscs
+S005|Umer|2nd|cs
+S006|kausar|4th|SE
